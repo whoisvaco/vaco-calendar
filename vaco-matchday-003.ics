@@ -10,7 +10,7 @@ DTSTART:20260925T090000Z
 DTEND:20260925T103000Z
 SUMMARY:VACO Matchday 003
 LOCATION:Wanderers Fives\, Rooty Hill
-DESCRIPTION:VACO Matchday 003\n\nCommunity football by VACO.\n\nLocation: Wanderers Fives\, Rooty Hill\nContact: whoisvaco@gmail.com
+DESCRIPTION:VACO Matchday 003\n\nLocation: Wanderers Fives\, Rooty Hill\nContact: whoisvaco@gmail.com
 ORGANIZER;CN=VACO:mailto:whoisvaco@gmail.com
 STATUS:CONFIRMED
 END:VEVENT
