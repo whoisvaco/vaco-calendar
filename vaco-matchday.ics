@@ -1,16 +1,16 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//VACO//Matchday 004//EN
+PRODID:-//VACO//Matchday 005//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:vaco-matchday-004-20261011@whoisvaco.com
-DTSTAMP:20260928T110000Z
-DTSTART:20261010T233000Z
-DTEND:20261011T010000Z
-SUMMARY:VACO Matchday 004
+UID:vaco-matchday-005-20261023@whoisvaco.com
+DTSTAMP:20261010T215100Z
+DTSTART:20261023T080000Z
+DTEND:20261023T093000Z
+SUMMARY:VACO Matchday 005
 LOCATION:Wanderers Fives\, Rooty Hill
-DESCRIPTION:VACO Matchday 004\n\nCommunity football by VACO.\n\nLocation: Wanderers Fives\, Rooty Hill\nContact: whoisvaco@gmail.com
+DESCRIPTION:VACO Matchday 005\n\nCommunity football by VACO.\n\nLocation: Wanderers Fives\, Rooty Hill\nContact: whoisvaco@gmail.com
 ORGANIZER;CN=VACO:mailto:whoisvaco@gmail.com
 STATUS:CONFIRMED
 END:VEVENT
